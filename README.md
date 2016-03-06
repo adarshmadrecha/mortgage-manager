@@ -1,2 +1,8 @@
 # MS Mortgage Manager
-Update 06/March/2016 - This software is still in very early stage of development. Free feel to try this out. But do not use it for your Girvi / Mortgage Management.
+Update 06/March/2016 - This software is still in very early stage of development (hence no file to download). Free feel to check this out. 
+
+## Some of the Scheenshots of the development
+
+### Customer View
+
+![Customer View Design Screen](images/Customer.View.png?raw=true "Optional Title")
